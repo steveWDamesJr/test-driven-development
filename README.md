@@ -2,7 +2,7 @@
 
 # TEST DRIVEN DEVELOPMENT
 
-> Testing with Jest
+> Testing with Jest.
 > Test your functions using the Jest library for more maintainable code.
 
 
