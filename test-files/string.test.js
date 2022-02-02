@@ -1,6 +1,4 @@
-const stringLength = require('./index.js')
-
-//TASK !
+const stringLength = require('../main-files/string.js')
 
 
 test('Expect that this test shows an error',() => {
@@ -12,9 +10,3 @@ test('Expect that this test shows an error',() => {
   expect(stringLength('happym')).toEqual(6);
 });
 
-
-
-
-
-
-//TASK 2
