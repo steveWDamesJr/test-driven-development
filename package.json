@@ -1,0 +1,23 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveWDamesJr/test-driven-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveWDamesJr/test-driven-development/issues"
+  },
+  "homepage": "https://github.com/steveWDamesJr/test-driven-development#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
